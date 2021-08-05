@@ -36,19 +36,18 @@ Read Me --> [SIMPLIFIED README](https://springreen.ga/pollbot-docs)<br>
     (x) Just Copy The Bot.py to pydroid and Simply Run it 
       
  ## RUN IN YOUR LINUX VPS OR DESKTOP 
-    UPDATE IT ALWAYS<br>
-    `sudo apt update`<br>
-    UPGRADE YOUR SYSTEMS<br>
-    `sudo apt upgrade`<br>
-    CLONE THIS REPO<br>
-    `git clone https://github.com/Botsuniverse/poll-bot`<br>
-    GO TO ITS DIRECTORY AND TYPE<br>
-    `python3 Bot.py`<br>
+    
+```
+sudo apt update
+sudo apt upgrade
+git clone https://github.com/Botsuniverse/poll-bot
+python3 Bot.py
+```
       
- ## RUN THIS IN WINDOWS TERMINAL<br>
-    1. Git Clone <br>
-      `git clone https://github.com/BotsUniverse/poll-bot/`<br>
-    2. Go to its dirctory<br>
-      `cd where_the_fuck_you_stored/poll-bot`<br>
-    3. Run it<br>
-      `py Bot.py`<br>   
+ ## RUN THIS IN WINDOWS TERMINAL
+ 
+```bash
+git clone https://github.com/BotsUniverse/poll-bot/
+cd where_the_fuck_you_stored/poll-bot
+py Bot.py
+```
