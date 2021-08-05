@@ -25,12 +25,11 @@ Read Me --> [SIMPLIFIED README](https://springreen.ga/pollbot-docs)<br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
  ## RUN IN TERMUX 
-    CLONE THIS 
-    `git clone https://github.com/Botsuniverse/poll-bot`<br>
-    Enter To Current Directory<br>
-    `cd poll-bot`<br>
-    Run This Bot<br>
-    `python3 Bot.py`<br>
+```
+git clone https://github.com/Botsuniverse/poll-bot
+cd poll-bot
+python3 Bot.py
+```
       
  ## RUN IN PYDROID 3 <br>
     (x) Just Copy The Bot.py to pydroid and Simply Run it 
