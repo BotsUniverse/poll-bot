@@ -3,7 +3,7 @@
 
   
 ## Enter you tokens at these are very important VARS:
-  [Bot.py#L22](https://github.com/BotsUniverse/poll-bot/blob/main/Bot.py#L22)
+  Without fork you cant deploy so fork it and edit in [Bot.py#L22](https://github.com/BotsUniverse/poll-bot/blob/main/Bot.py#L22)
   
 ## DEVLOPERS
 😎ROHITH [ROHITHADITYA](https://telegram.me/rohithaditya) <br> 😋PARVAT [PARVAT_R](https://telegram.me/Parvat_R)
