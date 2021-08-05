@@ -1,0 +1,42 @@
+{
+    "name": "Poll Bot",
+    "description": "Simple Telegram Bot for polling...",
+    "logo": "https://telegra.ph/file/72c837e4f3a3b2c70e170.jpg", 
+    "keywords": [
+      "telegram",
+      "userbot",
+      "plugin",
+      "modular",
+      "productivity"
+    ],
+      "repository": "https://github.com/botsuniverse/poll-bot",
+      "website": "https://www.springreen.ga",
+      "success_url": "https://github.com/venilabots/poll-bot",
+        "env": {
+      "ENV": {
+        "description": "Setting this to ANYTHING will enable heroku.",
+        "value": "ANYTHING"
+      },
+        "API_ID": {
+        "description": "api_id FROM TELEGRAM",
+        "value": "YOUR API ID"
+        },
+        "API_HASH": {
+        "description": "api_hash FROM TELEGRAM",
+        "value": "YOUR API HASH "
+        },
+        "BOT_TOKEN": {
+        "description": "YOUR BOT TOKEN",
+        "value": "@BOTFATHER"
+        }
+        },
+  "buildpacks": [
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "heroku/python"
+      }
+    ]
+  }
+  
