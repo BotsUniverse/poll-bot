@@ -1,6 +1,10 @@
-## Intro:)
+## Intro
   <body>This Is A Simple Bot To Create Poll In Channel and Groups <br> And Also This Is our First Project Too..
 
+  
+## Enter you tokens at:
+  [Bot.py#L22](https://github.com/BotsUniverse/poll-bot/blob/main/Bot.py#L22)
+  
 ## DEVLOPERS
 😎ROHITH [ROHITHADITYA](https://telegram.me/rohithaditya) <br> 😋PARVAT [PARVAT_R](https://telegram.me/Parvat_R)
 
