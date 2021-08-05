@@ -26,7 +26,7 @@
 Read Me --> [SIMPLIFIED README](https://springreen.ga/pollbot-docs)<br>
 ### DEPLOY
  ## DEPLOY TO HEROKU <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://springreen.ga/pollbot-docs/#getting_started)
 
  ## RUN IN TERMUX 
 ```
