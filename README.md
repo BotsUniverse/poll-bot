@@ -2,7 +2,7 @@
   <body>This Is A Simple Bot To Create Poll In Channel and Groups <br> And Also This Is our First Project Too..
 
   
-## Enter you tokens at:
+## Enter you tokens at these are very important VARS:
   [Bot.py#L22](https://github.com/BotsUniverse/poll-bot/blob/main/Bot.py#L22)
   
 ## DEVLOPERS
